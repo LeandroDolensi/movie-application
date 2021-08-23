@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Aplicação para Cinema :movie_camera:
 
 
@@ -14,11 +14,11 @@ Uma aplicação para cinema que armazena informações sobre:
 
 Estrutura de dados:
 
-**Sala**   =   (<u>Código<u>, Nome, capacidade, Tipo de exibição, Acessível)
+**Sala**   =   (<u>_Código_<u>, Nome, capacidade, Tipo de exibição, Acessível)
 
-**Filme** =  (<u>Código<u>, Nome, Ano de lançamento, Diretor, Atores)
+**Filme** =  (<u>_Código_<u>, Nome, Ano de lançamento, Diretor, Atores)
 
-**Sessão** = (<u>Código Filme, Código Sala, Data<u>, Horário, preço ingresso)
+**Sessão** = (<u>_Código Filme, Código Sala, Data_<u>, Horário, preço ingresso)
 
 
 
@@ -48,7 +48,4 @@ Cada Submenu oferece as opções:
 
 Projeto realizado no curso Algoritmo e Programação 1 e entregue como trabalho final da matéria. 
 
-=======
-# movie-application
-My first work with Python 
->>>>>>> 72e7ae870692e3ea68b2323c1babdee91b93b87b
+

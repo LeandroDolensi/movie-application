@@ -1,19 +1,19 @@
 
 # Aplicação para Cinema :movie_camera:
 
+<br/>
 
 
-Uma aplicação para cinema que armazena informações sobre:
+
+##### Uma aplicação para cinema que armazena informações sobre:
 
 * Filmes
 * Salas
 * Sessões
 
-> > >
+<br/>
 
-
-
-Estrutura de dados:
+##### Estrutura de dados:
 
 **Sala**   =   (<u>_Código_<u>, Nome, capacidade, Tipo de exibição, Acessível)
 
@@ -21,21 +21,18 @@ Estrutura de dados:
 
 **Sessão** = (<u>_Código Filme, Código Sala, Data_<u>, Horário, preço ingresso)
 
-> > > > > > >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<br/>
 
-Interface gráfica:
+##### Interface gráfica:
 
-			1. Submenu de Salas
-			2. Submenu de Filmes
-			3. Submenu de Sessões
-			4. Submenu de Relatórios
-			5. Sair
+1. Submenu de Salas
+2. Submenu de Filmes
+3. Submenu de Sessões
+4. Submenu de Relatórios
 
-> > > > 
-> > >
-> > > 
+<br/>
 
-Cada Submenu oferece as opções: 
+##### Cada Submenu oferece as opções: 
 
 - Listar todos
 - Listar um elemento específico
@@ -43,9 +40,13 @@ Cada Submenu oferece as opções:
 - Alterar
 - Excluir
 
->
+<br/>
 
->
+---
 
-Projeto realizado no curso Algoritmo e Programação 1 e entregue como trabalho final da matéria. 
+<br/>
+
+>Projeto realizado no curso Algoritmo e Programação 1 e entregue como trabalho final da matéria. 
+
+<br/>
 

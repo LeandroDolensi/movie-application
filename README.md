@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplicação para Cinema :movie_camera:
 
 
@@ -47,3 +48,7 @@ Cada Submenu oferece as opções:
 
 Projeto realizado no curso Algoritmo e Programação 1 e entregue como trabalho final da matéria. 
 
+=======
+# movie-application
+My first work with Python 
+>>>>>>> 72e7ae870692e3ea68b2323c1babdee91b93b87b
